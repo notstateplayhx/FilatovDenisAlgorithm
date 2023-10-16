@@ -23,6 +23,9 @@ ____
 # Хабр:
 - https://freelance.habr.com/freelancers/PlaystateHX
 ____
+# Mogu
+- https://mogu.so/board/1aRYbMqTgP9CsJLWBnySEM
+____
 # Команда:
 - Денис (я)
 - Влад

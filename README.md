@@ -12,7 +12,7 @@ ____
 *and that's it ig*
 ____
 # Лекции:
-- https://docs.google.com/document/d/1F80-iDXAuc0DNZeDxz_GKrUZfFw8O38xcRMXWWhrhvY/edit?usp=drivesdk
+- https://drive.google.com/drive/folders/1XygDPjrf063d4U_LD5EU7m0vTVZGiLkR?usp=drive_link
 ____
 # Реплит:
 - https://replit.com/@PlaystateHX

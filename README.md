@@ -20,6 +20,9 @@ ____
 # Сертификат:
 - https://drive.google.com/file/d/1x-AnJz3Vj19lN6pATIJBfQYSeQiGVmec/view?usp=drive_link
 ____
+# Хабр:
+- https://freelance.habr.com/freelancers/PlaystateHX
+____
 # Команда:
 - Денис (я)
 - Влад

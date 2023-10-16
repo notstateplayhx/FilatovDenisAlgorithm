@@ -15,7 +15,10 @@ ____
 - https://docs.google.com/document/d/1F80-iDXAuc0DNZeDxz_GKrUZfFw8O38xcRMXWWhrhvY/edit?usp=drivesdk
 ____
 # Реплит:
-https://replit.com/@PlaystateHX
+- https://replit.com/@PlaystateHX
+____
+# Сертификат:
+- https://drive.google.com/file/d/1x-AnJz3Vj19lN6pATIJBfQYSeQiGVmec/view?usp=drive_link
 ____
 # Команда:
 - Денис (я)

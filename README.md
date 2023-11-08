@@ -26,6 +26,9 @@ ____
 # Mogu
 - https://mogu.so/board/1aRYbMqTgP9CsJLWBnySEM
 ____
+# Папка "Практика"
+- https://drive.google.com/drive/folders/1P2TXLtFvRzX5LXWknbQZfVIXDJCm4fZ0
+____
 # Команда:
 - Денис (я)
 - Влад

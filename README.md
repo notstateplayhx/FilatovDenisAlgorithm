@@ -29,6 +29,9 @@ ____
 # Папка "Практика"
 - https://drive.google.com/drive/folders/1P2TXLtFvRzX5LXWknbQZfVIXDJCm4fZ0
 ____
+# Папка "Численные методы"
+- https://drive.google.com/drive/folders/1b3dIHx4JUd524MpU6zr6EHE06AoaiOTV?usp=sharing
+_____
 # Команда:
 - Денис (я)
 - Алина
